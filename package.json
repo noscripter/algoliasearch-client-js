@@ -59,7 +59,7 @@
     "lodash": "^3.10.1",
     "lodash-compat": "^3.10.1",
     "semver": "^5.0.3",
-    "tunnel-agent": "^0.4.1"
+    "tunnel-agent": "^0.6.0"
   },
   "devDependencies": {
     "angular": "^1.4.7",
